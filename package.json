@@ -1,0 +1,25 @@
+{
+  "name": "learning-tests-by-jest",
+  "version": "1.0.0",
+  "description": "This is learning about test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makso-87/learning-tests-by-jest.git"
+  },
+  "author": "Maksim Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Makso-87/learning-tests-by-jest/issues"
+  },
+  "homepage": "https://github.com/Makso-87/learning-tests-by-jest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
