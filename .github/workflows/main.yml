@@ -19,6 +19,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+     # Runs a single command using the runners shell
+    - name: installation-npm
+      run: npm install
 
     # Runs a single command using the runners shell
     - name: run-main-test
